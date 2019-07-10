@@ -1,6 +1,6 @@
 {
-  "name": "modely",
-  "description": "An Aurelia plugin project.",
+  "name": "@cgalvar/modely",
+  "description": "A simple library to interact with a rest backend in a model way.",
   "version": "0.1.0",
   "repository": {
     "type": "???",
